@@ -23,4 +23,3 @@ async function displayQuote() {
 }
 
 setTimeout(displayQuote,3000);
-displayQuote();
