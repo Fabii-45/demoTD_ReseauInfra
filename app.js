@@ -22,4 +22,5 @@ async function displayQuote() {
   div.textContent = quote.text;
 }
 
+setTimeout(displayQuote,3000);
 displayQuote();
